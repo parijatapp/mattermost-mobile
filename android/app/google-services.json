@@ -7,6 +7,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:440063317740:android:01a7968cd6e2b056bb77c9",
+        "android_client_info": {
+          "package_name": "com.hubhopper.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440063317740-j98ij2p9toeiisa6n6tfkl0a9qmnnb47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIaUAAajBFEIhGAgWZOmsTXha3Iau4V5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440063317740-j98ij2p9toeiisa6n6tfkl0a9qmnnb47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:440063317740:android:fdeeedb68cdf7fb3bb77c9",
         "android_client_info": {
           "package_name": "com.hubhopper.mattermost"
